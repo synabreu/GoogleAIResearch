@@ -22,7 +22,7 @@
 |13 |투명한 물체를 보기 위한 학습                 |2020년 2월 12일(수)         |https://brunch.co.kr/@synabreu/41 |
 |14 |AutoFlip, 지능형 비디오 리프레밍 프레임워크    |2020년 2월 13일(목)         |https://brunch.co.kr/@synabreu/39 |
 |15 |ML 모델 훈련을 위한 다양한 합성 의료 이미지 생성 |2020년 2월 19일(수)         |https://brunch.co.kr/@synabreu/43 |
-|16 |TensorFlow 제약조건 최적화 라이브러리로 공정성 |2020년 2월 21일(금)         |https://brunch.co.kr/@synabreu/44 |
+|16 |TensorFlow 제약조건 최적화 라이브러리로 공정성 |2020년 2월 21일(금)         |https://brunch.co.kr/@synabreu/42 |
 
 
 
