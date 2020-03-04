@@ -23,6 +23,8 @@
 |14 |AutoFlip, 지능형 비디오 리프레밍 프레임워크    |2020년 2월 13일(목)         |https://brunch.co.kr/@synabreu/39 |
 |15 |ML 모델 훈련을 위한 다양한 합성 의료 이미지 생성 |2020년 2월 19일(수)         |https://brunch.co.kr/@synabreu/43 |
 |16 |TensorFlow 제약조건 최적화 라이브러리로 공정성 |2020년 2월 21일(금)         |https://brunch.co.kr/@synabreu/42 |
+|17 |말로 지면 작업들을 위한 스트리트뷰 파노라마의 접근개선|2020년 2월 25일(금)      |https://brunch.co.kr/@synabreu/45 |
+|18 |메시-텐서플로우를 이용한 초 고해상도 이미지 분석  |2020년 2월 28일(금)        |https://brunch.co.kr/@synabreu/46 |
 
 
 
