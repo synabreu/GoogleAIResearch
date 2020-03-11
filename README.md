@@ -4,12 +4,12 @@
 다음은 관련된 내용을 제목과 링크를 리스트로 정렬해 놓았으니 참고하시기 바랍니다.  
 또한 영한 번역에서 구글 머신 러닝 용어집(https://developers.google.com/machine-learning/glossary?hl=ko)을 참조하였습니다.  
 
-|번호 |제목|작성일|URL|
-|:--|:--------------------------------------|:--------------------|:--------------------------|
-|*  |[필수 공지] 구글 AI 리서치 블로그를 번역하면서   |                       |https://brunch.co.kr/@synabreu/40 | 
-|1  |Recorder 뒷면의 온-디바이스 머신러닝          |2019년 12월 18일(목)      |https://brunch.co.kr/@synabreu/34 |
-|2  |ALBERT:언어 표현의 자율지도 학습             |2019년 12월 20일(금)       |https://brunch.co.kr/@synabreu/32 |
-|3  |학습된 이미지 압축에 대한 세번째 워크샵         |2020년 1월 3일(목)         |https://brunch.co.kr/@synabreu/37 |
+|작성일 |제목|URL|
+|:------------------|:--------------------------------------|:--------------------------|
+|*                  |[필수 공지] 구글 AI 리서치 블로그를 번역하면서   |https://brunch.co.kr/@synabreu/40 | 
+|2019년 12월 18일(목) |Recorder 뒷면의 온-디바이스 머신러닝          |https://brunch.co.kr/@synabreu/34 |
+|2019년 12월 20일(금) |ALBERT:언어 표현의 자율지도 학습             |       |https://brunch.co.kr/@synabreu/32 |
+|2020년 1월 3일(목)   |학습된 이미지 압축에 대한 세번째 워크샵         |         |https://brunch.co.kr/@synabreu/37 |
 |4  |2019년을 돌아보고 2020년을 넘어             |2020년 1월 9일(목)         |https://brunch.co.kr/@synabreu/30 |
 |5  |고해상도의 "기상예보"강수량 예측              |2020년 1월 13일(월)        |https://brunch.co.kr/@synabreu/29 |
 |6  |모델의 불확실성을 신뢰할 수 있습니까?          |2020년 1월 15일(수)        |https://brunch.co.kr/@synabreu/28 |
