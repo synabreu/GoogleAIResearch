@@ -28,9 +28,11 @@
 |2020년 2월 26일(수)  |Open Images V6:현지화된 서술의 새로운 특징         |https://brunch.co.kr/@synabreu/48 |
 |2020년 2월 28일(금)  |메시-텐서플로우를 이용한 초 고해상도 이미지 분석        |https://brunch.co.kr/@synabreu/46 |
 |2020년 3월 3일(화)   |ML 프레임워크를 위한 인간 중심 디자인을 향하여         |https://brunch.co.kr/@synabreu/47 |
+|2020년 3월 6일(금)   |컴포지션 일반화 측정하기                           |https://brunch.co.kr/@synabreu/51 |
 |2020년 3월 9일(월)   |텐서플로우 퀀텀발표:퀀텀 머신러닝을 위한 오픈소스        |https://brunch.co.kr/@synabreu/50 |
-
-
+|2020년 3월 10일(화)  |ELECTRA를 통한 효율적인 NLP모델 사전 훈련           |https://brunch.co.kr/@synabreu/55 |
+|2020년 3월 12일(목)  |픽셀4의 Soli 레이더 기반 인식 및 상호작용            |https://brunch.co.kr/@synabreu/57 |
+|2020년 3월 13일(금)  |뉴럴 탄젠트가 있는 더빠르고 쉬운 무한 와이드 네트워크    |https://brunch.co.kr/@synabreu/58 |
 
 
 
