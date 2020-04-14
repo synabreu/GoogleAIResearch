@@ -7,6 +7,7 @@
 |작성일 |제목|URL|
 |:------------------|:------------------------------------------|:--------------------------|
 |*                  |[필수 공지] 구글 AI 리서치 블로그를 번역하면서       |https://brunch.co.kr/@synabreu/40 | 
+|2019년 12월 16일 (월)|구글 픽셀4 및 픽셀4 XL의 세로 모드 개선            |https://brunch.co.kr/@synabreu/52 |
 |2019년 12월 18일(목) |Recorder 뒷면의 온-디바이스 머신러닝              |https://brunch.co.kr/@synabreu/34 |
 |2019년 12월 20일(금) |ALBERT:언어 표현의 자율지도 학습                  |https://brunch.co.kr/@synabreu/32 |
 |2020년 1월 3일(목)   |학습된 이미지 압축에 대한 세번째 워크샵              |https://brunch.co.kr/@synabreu/37 |
@@ -31,8 +32,14 @@
 |2020년 3월 6일(금)   |컴포지션 일반화 측정하기                           |https://brunch.co.kr/@synabreu/51 |
 |2020년 3월 9일(월)   |텐서플로우 퀀텀발표:퀀텀 머신러닝을 위한 오픈소스        |https://brunch.co.kr/@synabreu/50 |
 |2020년 3월 10일(화)  |ELECTRA를 통한 효율적인 NLP모델 사전 훈련           |https://brunch.co.kr/@synabreu/55 |
+|2020년 3월 11일(수)  |모바일 장치에서 MediaPipe로 실시간 3D물체감지        |https://brunch.co.kr/@synabreu/64 |
 |2020년 3월 12일(목)  |픽셀4의 Soli 레이더 기반 인식 및 상호작용            |https://brunch.co.kr/@synabreu/57 |
 |2020년 3월 13일(금)  |뉴럴 탄젠트가 있는 더빠르고 쉬운 무한 와이드 네트워크    |https://brunch.co.kr/@synabreu/58 |
+|2020년 3월 18일(수)  |Dreamer소개:월드모델을 이용한 확장가능한 강화학습.     |https://brunch.co.kr/@synabreu/59 |
+|2020년 3월 20일(금)  |로봇 조작을 위한 시각적 전이 학습                   |https://brunch.co.kr/@synabreu/60 |
+|2020년 3월 23일(월)  |SEED RL을 통한 대규모 스케일의 강화 학습            |https://brunch.co.kr/@synabreu/63 |
+|2020년 4월 2일(목)   |2020 이미지 매칭 벤치마크 및 챌린지 발표             |https://brunch.co.kr/@synabreu/62 |
+|2020년 4월 3일(금)   |자연에서 영감을 얻은 로봇 민첩성 연구                |https://brunch.co.kr/@synabreu/61 |
 
 
 
