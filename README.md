@@ -35,13 +35,16 @@
 |2020년 3월 11일(수)  |모바일 장치에서 MediaPipe로 실시간 3D물체감지        |https://brunch.co.kr/@synabreu/64 |
 |2020년 3월 12일(목)  |픽셀4의 Soli 레이더 기반 인식 및 상호작용            |https://brunch.co.kr/@synabreu/57 |
 |2020년 3월 13일(금)  |뉴럴 탄젠트가 있는 더빠르고 쉬운 무한 와이드 네트워크    |https://brunch.co.kr/@synabreu/58 |
-|2020년 3월 18일(수)  |Dreamer소개:월드모델을 이용한 확장가능한 강화학습.     |https://brunch.co.kr/@synabreu/59 |
+|2020년 3월 18일(수)  |Dreamer소개:월드모델을 이용한 확장가능한 강화학습     |https://brunch.co.kr/@synabreu/59 |
 |2020년 3월 20일(금)  |로봇 조작을 위한 시각적 전이 학습                   |https://brunch.co.kr/@synabreu/60 |
 |2020년 3월 23일(월)  |SEED RL을 통한 대규모 스케일의 강화 학습            |https://brunch.co.kr/@synabreu/63 |
+|2020년 3월 25일(수)  |8시간 앞선 강수량 예측을 위한 날씨 신경망 모델         |https://brunch.co.kr/@synabreu/67 |
 |2020년 3월 26일(목)  |교직원 연구 지원을 위한 새로운 방법 조사              |https://brunch.co.kr/@synabreu/66 |
 |2020년 4월 2일(목)   |2020 이미지 매칭 벤치마크 및 챌린지 발표             |https://brunch.co.kr/@synabreu/62 |
 |2020년 4월 3일(금)   |자연에서 영감을 얻은 로봇 민첩성 연구                |https://brunch.co.kr/@synabreu/61 |
-
+|2020년 4월 10일(금)  |uDepth: 픽셀 4에서 실시간 3D 심도 감지             |https://brunch.co.kr/@synabreu/65 |
+|2020년 4월 23일(목)  |심층 강화 학습을 통한 칩 설계                      |https://brunch.co.kr/@synabreu/70 |
+|2020년 4월 26일(일)  |ICLR 2020에서 구글 리서치                       |https://brunch.co.kr/@synabreu/71 |
 
 
 
