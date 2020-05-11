@@ -40,12 +40,13 @@
 |2020년 3월 23일(월)  |SEED RL을 통한 대규모 스케일의 강화 학습            |https://brunch.co.kr/@synabreu/63 |
 |2020년 3월 25일(수)  |8시간 앞선 강수량 예측을 위한 날씨 신경망 모델         |https://brunch.co.kr/@synabreu/67 |
 |2020년 3월 26일(목)  |교직원 연구 지원을 위한 새로운 방법 조사              |https://brunch.co.kr/@synabreu/66 |
+|2020년 4월 1일(수)   |WaveNetEQ를 사용한 구글 듀오 오디오 품질 개선       |https://brunch.co.kr/@synabreu/73 |
 |2020년 4월 2일(목)   |2020 이미지 매칭 벤치마크 및 챌린지 발표             |https://brunch.co.kr/@synabreu/62 |
 |2020년 4월 3일(금)   |자연에서 영감을 얻은 로봇 민첩성 연구                |https://brunch.co.kr/@synabreu/61 |
 |2020년 4월 10일(금)  |uDepth: 픽셀 4에서 실시간 3D 심도 감지             |https://brunch.co.kr/@synabreu/65 |
 |2020년 4월 23일(목)  |심층 강화 학습을 통한 칩 설계                      |https://brunch.co.kr/@synabreu/70 |
 |2020년 4월 26일(일)  |ICLR 2020에서 구글 리서치                       |https://brunch.co.kr/@synabreu/71 |
-
+|2020년 5월 4일(월)   |COVID-19 과학 문헌을 탐구하는 NLU 기반 도구        |https://brunch.co.kr/@synabreu/72 |
 
 
 
