@@ -42,6 +42,7 @@
 |2020년 3월 26일(목)  |교직원 연구 지원을 위한 새로운 방법 조사              |https://brunch.co.kr/@synabreu/66 |
 |2020년 4월 1일(수)   |WaveNetEQ를 사용한 구글 듀오 오디오 품질 개선       |https://brunch.co.kr/@synabreu/73 |
 |2020년 4월 2일(목)   |2020 이미지 매칭 벤치마크 및 챌린지 발표             |https://brunch.co.kr/@synabreu/62 |
+|2020년 4월 2일(목)   |약물 치료 오류로부터 환자를 보호하기 위한 절차          |https://brunch.co.kr/@synabreu/75 |
 |2020년 4월 3일(금)   |자연에서 영감을 얻은 로봇 민첩성 연구                |https://brunch.co.kr/@synabreu/61 |
 |2020년 4월 10일(금)  |uDepth: 픽셀 4에서 실시간 3D 심도 감지             |https://brunch.co.kr/@synabreu/65 |
 |2020년 4월 23일(목)  |심층 강화 학습을 통한 칩 설계                      |https://brunch.co.kr/@synabreu/70 |
