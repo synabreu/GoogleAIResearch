@@ -44,6 +44,7 @@
 |2020년 4월 2일(목)   |2020 이미지 매칭 벤치마크 및 챌린지 발표             |https://brunch.co.kr/@synabreu/62 |
 |2020년 4월 2일(목)   |약물 치료 오류로부터 환자를 보호하기 위한 절차          |https://brunch.co.kr/@synabreu/75 |
 |2020년 4월 3일(금)   |자연에서 영감을 얻은 로봇 민첩성 연구                |https://brunch.co.kr/@synabreu/61 |
+|2020년 4월 8일(수)   |imCLR을 이용한 향상된 자기주도 및 반주도 학습         |https://brunch.co.kr/@synabreu/76 |
 |2020년 4월 10일(금)  |uDepth: 픽셀 4에서 실시간 3D 심도 감지             |https://brunch.co.kr/@synabreu/65 |
 |2020년 4월 23일(목)  |심층 강화 학습을 통한 칩 설계                      |https://brunch.co.kr/@synabreu/70 |
 |2020년 4월 26일(일)  |ICLR 2020에서 구글 리서치                       |https://brunch.co.kr/@synabreu/71 |
