@@ -49,7 +49,7 @@
 |2020년 4월 23일(목)  |심층 강화 학습을 통한 칩 설계                      |https://brunch.co.kr/@synabreu/70 |
 |2020년 4월 26일(일)  |ICLR 2020에서 구글 리서치                       |https://brunch.co.kr/@synabreu/71 |
 |2020년 5월 4일(월)   |COVID-19 과학 문헌을 탐구하는 NLU 기반 도구        |https://brunch.co.kr/@synabreu/72 |
-
+|2020년 5월 20일(수)  |제7회 세밀한 시각적 분류 워크샵 발표                |https://brunch.co.kr/@synabreu/77 |
 
 
 
