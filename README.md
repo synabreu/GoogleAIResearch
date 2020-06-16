@@ -5,8 +5,9 @@
 또한 영한 번역에서 구글 머신 러닝 용어집(https://developers.google.com/machine-learning/glossary?hl=ko)을 참조하였습니다.  
 
 |작성일 |제목|URL|
-|:------------------|:------------------------------------------|:--------------------------|
+|:------------------|:------------------------------------------|:---------------------------------|
 |*                  |[필수 공지] 구글 AI 리서치 블로그를 번역하면서       |https://brunch.co.kr/@synabreu/40 | 
+|2018년 11월 2일(금)  |오픈소싱 BERT:자연어 처리를 위한 최첨단 사전훈련      |https://brunch.co.kr/@synabreu/83 |
 |2019년 12월 16일(월) |구글 픽셀4 및 픽셀4 XL의 세로 모드 개선            |https://brunch.co.kr/@synabreu/52 |
 |2019년 12월 18일(목) |Recorder 뒷면의 온-디바이스 머신러닝              |https://brunch.co.kr/@synabreu/34 |
 |2019년 12월 20일(금) |ALBERT:언어 표현의 자율지도 학습                  |https://brunch.co.kr/@synabreu/32 |
@@ -51,7 +52,7 @@
 |2020년 4월 30일(목)  |신경망을 사용하여 표들에서 답 찾기                  |https://brunch.co.kr/@synabreu/82  |
 |2020년 5월 4일(월)   |COVID-19 과학 문헌을 탐구하는 NLU 기반 도구        |https://brunch.co.kr/@synabreu/72 |
 |2020년 5월 20일(수)  |제7회 세밀한 시각적 분류 워크샵 발표                |https://brunch.co.kr/@synabreu/77 |
-|2020년 6월 12일(금)  |Templatic 문서에서 구조화된 데이터 추출            |https://brunch.co.kr/@synabreu/81 |
+|2020년 6월 12일(금)  |Templatic 문서에서 구조화된 데이터 추출           |https://brunch.co.kr/@synabreu/81 |
 
 
 
