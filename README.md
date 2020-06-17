@@ -53,7 +53,7 @@
 |2020년 5월 4일(월)   |COVID-19 과학 문헌을 탐구하는 NLU 기반 도구        |https://brunch.co.kr/@synabreu/72 |
 |2020년 5월 20일(수)  |제7회 세밀한 시각적 분류 워크샵 발표                |https://brunch.co.kr/@synabreu/77 |
 |2020년 6월 12일(금)  |Templatic 문서에서 구조화된 데이터 추출           |https://brunch.co.kr/@synabreu/81 |
-
+|2020년 6월 15일(월)  |CVPR 2020에서 구글                           |https://brunch.co.kr/@synabreu/84 |
 
 
 
