@@ -55,7 +55,7 @@
 |2020년 6월 12일(금)  |Templatic 문서에서 구조화된 데이터 추출           |https://brunch.co.kr/@synabreu/81 |
 |2020년 6월 15일(월)  |CVPR 2020에서 구글                           |https://brunch.co.kr/@synabreu/84 |
 |2020년 6월 22일(월)  |RepNet:비디오의 반복 계산하기                   |https://brunch.co.kr/@synabreu/85 |
-
+|2020년 6월 24일(수)  |픽셀 4에서 힘의 강도 기반 제스처 감지              |https://brunch.co.kr/@synabreu/86 |
 
 
 
