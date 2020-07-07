@@ -8,6 +8,7 @@
 |:------------------|:------------------------------------------|:---------------------------------|
 |*                  |[필수 공지] 구글 AI 리서치 블로그를 번역하면서       |https://brunch.co.kr/@synabreu/40 | 
 |2018년 11월 2일(금)  |오픈소싱 BERT:자연어 처리를 위한 최첨단 사전훈련      |https://brunch.co.kr/@synabreu/83 |
+|2018년 12월 10일(월) |Google Translate에서 성별 번역 제공하기          |https://brunch.co.kr/@synabreu/89 |
 |2019년 12월 16일(월) |구글 픽셀4 및 픽셀4 XL의 세로 모드 개선            |https://brunch.co.kr/@synabreu/52 |
 |2019년 12월 18일(목) |Recorder 뒷면의 온-디바이스 머신러닝              |https://brunch.co.kr/@synabreu/34 |
 |2019년 12월 20일(금) |ALBERT:언어 표현의 자율지도 학습                  |https://brunch.co.kr/@synabreu/32 |
@@ -47,6 +48,7 @@
 |2020년 4월 3일(금)   |자연에서 영감을 얻은 로봇 민첩성 연구                |https://brunch.co.kr/@synabreu/61 |
 |2020년 4월 8일(수)   |SimCLR을 이용한 향상된 자기주도 및 반주도 학습         |https://brunch.co.kr/@synabreu/76 |
 |2020년 4월 10일(금)  |uDepth: 픽셀 4에서 실시간 3D 심도 감지             |https://brunch.co.kr/@synabreu/65 |
+|2020년 4월 22일(수)  |구글 번역에서 성편견을 줄이기 위한 확장 가능한 접근      |https://brunch.co.kr/@synabreu/88 |
 |2020년 4월 23일(목)  |심층 강화 학습을 통한 칩 설계                      |https://brunch.co.kr/@synabreu/70 |
 |2020년 4월 26일(일)  |ICLR 2020에서 구글 리서치                       |https://brunch.co.kr/@synabreu/71 |
 |2020년 4월 30일(목)  |신경망을 사용하여 표들에서 답 찾기                  |https://brunch.co.kr/@synabreu/82  |
