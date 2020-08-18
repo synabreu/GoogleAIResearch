@@ -7,7 +7,7 @@
 |작성일 |제목|URL|
 |:------------------|:------------------------------------------|:---------------------------------|
 |*                  |[필수 공지] 구글 AI 리서치 블로그를 번역하면서       |https://brunch.co.kr/@synabreu/40 | 
-|2017년 8월 31일(목)  |Transformer:언어 이해를 위한 새 신경망 구조        |
+|2017년 8월 31일(목)  |Transformer:언어 이해를 위한 새 신경망 구조        |https://brunch.co.kr/@synabreu/94 |
 |2018년 11월 2일(금)  |오픈소싱 BERT:자연어 처리를 위한 최첨단 사전훈련      |https://brunch.co.kr/@synabreu/83 |
 |2018년 12월 10일(월) |Google Translate에서 성별 번역 제공하기          |https://brunch.co.kr/@synabreu/89 |
 |2019년 12월 16일(월) |구글 픽셀4 및 픽셀4 XL의 세로 모드 개선            |https://brunch.co.kr/@synabreu/52 |
