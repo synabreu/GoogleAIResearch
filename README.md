@@ -61,7 +61,7 @@
 |2020년 6월 24일(수)  |픽셀 4에서 힘의 강도 기반 제스처 감지              |https://brunch.co.kr/@synabreu/86 |
 |2020년 7월 1일(수)   |YouTube 제작자를 위한 SmartReply              |https://brunch.co.kr/@synabreu/87 | 
 |2020년 8월 6일(목)   |MediaPipe Iris:실시간 홍채 추적 및 깊이         |https://brunch.co.kr/@synabreu/93 |
-
+|2020년 8월 13일(목)  |미디어파이프 BlazePose를 사용한 실시간 신체 추적    |https://brunch.co.kr/@synabreu/95 |
 
 
  
